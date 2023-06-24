@@ -34,7 +34,7 @@
 
 <div>
   <a href="https://github.com/GabrielLimaSC">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaSC&layout-compact&langs_count=16&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaSC&layout-compact&langs_count=16&theme=dracula"/>
   <img height="220em" src="https://streak-stats.demolab.com?user=GabrielLimaSC&theme=dracula&hide_border=true&locale=pt_BR"/>
   <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api/pin?username=GabrielLimaSC&repo=Portifolio&theme=dracula"/>
 </div>
