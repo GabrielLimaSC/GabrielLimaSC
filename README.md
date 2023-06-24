@@ -16,8 +16,8 @@
   </a>
 </p>
 
-- 🔭 Hoje estudo na Cesar School, estou no 1° Periodo de Ciencia da Computação
-- 🌱 Front-End... Javascript
+- 🔭 Hoje estudo na Cesar School, estou no 2° Periodo de Ciencia da Computação
+- 🌱 Estudando `C`, `HTML5`, `CSS3` e `javaScript`
 
 <div>
   <a href="https:">
