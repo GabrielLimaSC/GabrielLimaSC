@@ -31,5 +31,5 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimasc&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimasc&layout=compact)]
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudioavgo&repo=ardpix)](https://github.com/claudioavgo/ardpix)
