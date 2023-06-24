@@ -36,5 +36,5 @@
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaSC&layout-compact&langs_count=16&theme=dracula"/>
 
     
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/pin?username=GabrielLimaSC&repo=Portifolio"/>
+  <img height="140em" width="500em" src="https://github-readme-stats.vercel.app/api/pin?username=GabrielLimaSC&repo=Portifolio"/>
 </div>
