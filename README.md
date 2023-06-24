@@ -31,3 +31,5 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+##
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaSC&langs_count=6)
