@@ -18,7 +18,8 @@
 
 - 🔭 Hoje estudo na <a href="https://github.com/Abduzidos">Cesar School</a>, estou no 2° Periodo de Ciencia da Computação
 - 🌱 Estudando `C`, `HTML5`, `CSS3` e `javaScript`
-## Linguagens e Tecnologias 
+## 
+# Linguagens e Tecnologias 
 <div style="display: inline_block"><br>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
