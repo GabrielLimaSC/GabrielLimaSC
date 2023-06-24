@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/gabriel-lima-siqueira-cavalcanti-30909a1a4/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+   <a href="https://www.twitter.com">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 - 🔭 Hoje estudo na Cesar School, estou no 1° Periodo de Ciencia da Computação
