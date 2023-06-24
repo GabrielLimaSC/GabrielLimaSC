@@ -34,5 +34,5 @@
 <p></p>
   <a href="https://github.com/GabrielLimaSC">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaSC&layout-compact&langs_count=16&theme=dracula"/>
-  <img height="180em" width="200" src="https://github-readme-stats.vercel.app/api/pin?username=GabrielLimaSC&repo=Portifolio"/>
+  <img height="180em" width="1000" src="https://github-readme-stats.vercel.app/api/pin?username=GabrielLimaSC&repo=Portifolio"/>
 </div>
