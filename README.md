@@ -30,9 +30,9 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
   
-
-
+<div>
   <a href="https://github.com/GabrielLimaSC">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaSC&layout-compact&langs_count=16&theme=dracula"/>
   <img height="220em" src="https://streak-stats.demolab.com?user=GabrielLimaSC&theme=dracula&hide_border=true&locale=pt_BR"/>
