@@ -32,4 +32,4 @@
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/claudioavgo/ardpix)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=claudioavgo&repo=ardpix)](https://github.com/claudioavgo/ardpix)
