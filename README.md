@@ -1,7 +1,7 @@
 <h1 align="center"> Oláaa, Eu sou Gabriel Lima </h1>
 
 <p align="center"> 
-  :derelict_house: Como me encontrar:a
+  :derelict_house: Como me encontrar:
 </p>
 
 <p align="center">
