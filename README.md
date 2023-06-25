@@ -2,7 +2,7 @@
 
 <p align="center"> 
   :derelict_house: Como me encontrar:
-</p> teste
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/limagsc/">
