@@ -20,7 +20,7 @@
   
 </p>
 
-- 🔭 Hoje estudo na <a href="https://github.com/Abduzidos">Cesar School</a>, estou no 2° Periodo de Ciencia da Computação
+- 🔭 Hoje estudo na <a href="https://github.com/Abduzidos">Cesar School</a>, estou no 2° ano de Ciencia da Computação
 - 🌱 Estudando `C`, `HTML5`, `CSS3` e `javaScript`
 ## 
 <div style="display: inline_block"><h2> Linguagens e Tecnologias <br>
