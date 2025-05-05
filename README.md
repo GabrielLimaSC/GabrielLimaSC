@@ -21,7 +21,7 @@
 </p>
 
 - 🔭 Hoje estudo na <a href="https://github.com/Abduzidos">Cesar School</a>, estou no 3° ano de Ciencia da Computação
-- 🌱 Estudando `Node.js` e `Java`
+- 🌱 Estudando `Nest.js` e `Typescript`
 ## 
 
 <div>
