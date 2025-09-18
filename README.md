@@ -24,8 +24,4 @@
 - 🌱 Estudando `Nest.js` e `Typescript`
 ## 
 
-<div>
-  <a href="https://github.com/GabrielLimaSC">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaSC&layout-compact&langs_count=16&theme=dracula"/>
-  <img height="200em" src="https://streak-stats.demolab.com?user=GabrielLimaSC&theme=dracula&locale=pt_BR"/>
-</div>
+
